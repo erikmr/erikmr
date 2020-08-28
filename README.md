@@ -1,4 +1,12 @@
 ### Hi there 👋
+```javascript
+const erik = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C#],
+  tools: [React, Angular, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
 
 <!--
 **erikmr/erikmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
