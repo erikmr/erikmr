@@ -14,4 +14,4 @@ const dev_skills = {
 
 
 ```
-## You can hire me at any time. Message me on WhatsApp  [whatsApp](https://wa.me/5215565816104 target="_blank")🌎
+## You can hire me at any time. Message me on WhatsApp  [whatsApp](https://wa.me/5215565816104){:target="_blank"}   🌎
