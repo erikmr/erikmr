@@ -1,4 +1,4 @@
-### Hi, I'm Erik 👋💻
+## Hi, I'm Erik 👋💻
 ```javascript
 const dev_skills = {
   front: [Javascript, Typescript, HTML, CSS ],
@@ -14,7 +14,7 @@ const dev_skills = {
 
 
 ```
-## You can hire me at any time.   
+### You can hire me at any time.   
 <a href="https://wa.me/5215565816104" target="_blank">Message me on WhatsApp </a>   🌎
 
 
