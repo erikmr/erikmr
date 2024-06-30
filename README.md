@@ -1,5 +1,5 @@
 ### Hi, I'm Erik 👋💻
-```
+```javascript
 const skills = {
   front: [Javascript, Typescript, HTML, CSS ],
   javascript_frameworks:[Next.JS, Astro, Vite]
