@@ -12,6 +12,7 @@ const dev_skills = {
   architecture: ["microservices", "event-driven", "design system pattern", "AI", Web3.0],
 }
 
-
+[link name](url_link){:target="_blank"}
+<a href="example.com" target="_blank">New Tab</a>
 ```
 ## You can hire me at any time. Message me on WhatsApp  [whatsApp](https://wa.me/5215565816104){:target="_blank"}   🌎
