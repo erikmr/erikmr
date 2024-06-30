@@ -8,10 +8,10 @@ const dev_skills = {
   other_languages.:[C++, COBOL],
   mobile :[Flutter, Swift,  Kotlin ],
   bi_applications: [powerbi,metabase, qlik_sense, tabeau],
-  rpa_and_task_automation: [rocketbot, UIPath, selenium, playwright]
+  rpa_and_task_automation: [rocketbot, UIPath, selenium, playwright],
   architecture: ["microservices", "event-driven", "design system pattern", "AI", Web3.0],
 }
 
 
 ```
-## hire me 🌎
+## You can hire me at any time [whatsApp](https://wa.me/5215565816104)🌎
