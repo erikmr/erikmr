@@ -14,7 +14,8 @@ const dev_skills = {
 
 
 ```
-## You can hire me at any time.   <a href="[example.com](https://wa.me/5215565816104)" target="_blank">Message me on WhatsApp </a>   🌎
+## You can hire me at any time.   
+<a href="[example.com](https://wa.me/5215565816104)" target="_blank">Message me on WhatsApp </a>   🌎
 
 
 
