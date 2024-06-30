@@ -9,7 +9,7 @@ const dev_skills = {
   mobile :[Flutter, Swift,  Kotlin ],
   bi_applications: [powerbi, metabase, qlik_sense, tabeau],
   rpa_and_task_automation: [rocketbot, UIPath, selenium, playwright],
-  architecture: ["microservices", "event-driven", "design system pattern", "AI", Web3.0]
+  architecture: [microservices, event_driven, design_system_pattern, AI, Web3.0]
 }
 
 ```
