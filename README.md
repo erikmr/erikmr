@@ -12,10 +12,10 @@ const dev_skills = {
   architecture: ["microservices", "event-driven", "design system pattern", "AI", Web3.0],
 }
 
-
 ```
-### You can hire me at any time.   
-- <a href="https://wa.me/5215565816104" target="_blank">Message me on WhatsApp </a>   🌎
+
+### You can hire me at any time 🌎 .   
+- <a href="https://wa.me/5215565816104" target="_blank">Message me on WhatsApp </a>  
 
 
 
