@@ -15,7 +15,7 @@ const dev_skills = {
 ```
 
 ### You can hire me at any time 🌎 .   
-- Send me a message on ![WhatsApp Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg) <a href="https://wa.me/5215565816104" target="_blank"> WhatsApp </a>  
+- Send me a message on <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="32" height="32"> <a href="https://wa.me/5215565816104" target="_blank"> WhatsApp </a>  
 
 
 
