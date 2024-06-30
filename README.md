@@ -1,10 +1,11 @@
 ### Hi, I'm Erik 👋💻
-```javascript
-const erik = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C#],
-  tools: [ React, Angular, Node, Flutter, .Net],
+```
+const skills = {
+  front: [Javascript, Typescript, HTML, CSS ],
+  javascript_frameworks:[Next.JS, Astro, Vite]
+  back: [ Node, Ruby, Python, Java, C#, VB.Net,GO],
+  mobile :[Flutter, Swift]
   architecture: ["microservices", "event-driven", "design system pattern", "AI", Web3.0],
 }
 ```
-## Find me around the web 🌎
+## hire me 🌎
