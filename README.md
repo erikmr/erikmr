@@ -2,7 +2,7 @@
 ```javascript
 const dev_skills = {
   front_end: [Javascript, Typescript, HTML, CSS ],
-  javascript_frameworks:[NextJS, Astro, Vite, Angular, ExtJS, SolidJS],
+  javascript_frameworks:[NextJS, React, Astro, Vite, Angular, ExtJS, SolidJS],
   back_end: [Node, Ruby, Python, C#, VB.Net],
   back_end_frameworks: [NestJS, Rails, .Net, Flask ],
   other_languages:[C++, COBOL],
