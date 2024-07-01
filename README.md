@@ -2,12 +2,12 @@
 ```javascript
 const dev_skills = {
   front: [Javascript, Typescript, HTML, CSS ],
-  javascript_frameworks:[NextJS, Astro, Vite, Angular, ExtJS],
+  javascript_frameworks:[NextJS, Astro, Vite, Angular, ExtJS, SolidJS],
   back: [Node, Ruby, Python, C#, VB.Net],
   back_frameworks: [Rails, .Net, Flask ],
   other_languages.:[C++, COBOL],
   mobile :[Flutter, Swift,  Kotlin ],
-  bi_applications: [powerbi, metabase, qlik_sense, tabeau],
+  bi_applications: [powerbi, metabase, qlik_sense, tableau],
   rpa_and_task_automation: [rocketbot, UIPath, selenium, playwright],
   architecture: [microservices, event_driven, design_system_pattern, AI, Web3.0]
 }
