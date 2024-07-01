@@ -1,12 +1,12 @@
 ## Hi, I'm Erik 👋💻
 ```javascript
 const dev_skills = {
-  front_end: [Javascript, Typescript, HTML, CSS ],
+  front_end:[Javascript, Typescript, HTML, CSS],
   javascript_frameworks:[NextJS, React, Astro, Vite, Angular, ExtJS, SolidJS],
   back_end: [Node, Ruby, Python, C#, VB.Net],
-  back_end_frameworks: [NestJS, Rails, .Net, Flask ],
-  other_languages:[C++, COBOL],
-  mobile :[Flutter, Swift,  Kotlin ],
+  back_end_frameworks: [NestJS, Rails, .Net, Flask],
+  other_languages: [C++, COBOL],
+  mobile: [Flutter, Swift,  Kotlin],
   bi_applications: [powerbi, metabase, qlik_sense, tableau],
   rpa_and_task_automation: [rocketbot, UIPath, selenium, playwright],
   architecture: [microservices, event_driven, design_system_pattern, AI, Web3.0]
